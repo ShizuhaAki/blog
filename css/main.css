@@ -1990,7 +1990,7 @@ pre code {
   width: 4px;
 }
 .post-body {
-  font-family: Helvetica, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Fira Sans, Helvetica, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   overflow-wrap: break-word;
 }
 @media (min-width: 1200px) {
@@ -2177,7 +2177,7 @@ pre code {
 }
 .posts-expand .post-meta-container {
   color: #999;
-  font-family: Helvetica, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Fira Sans, Helvetica, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 0.75em;
   margin-top: 3px;
 }
@@ -2775,7 +2775,7 @@ ul.breadcrumb li:last-child {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #8c09ff;
+  background: #12b15d;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
